@@ -8,11 +8,11 @@
 
 <p align="center">An AI-powered legal document analysis tool that leverages a team of specialized AI agents to review, analyze, and provide recommendations for legal documents.</p>
 
-<h2>📋 Overview</h2>
+<h2> Overview</h2>
 
 <p>The Legal Document Analyzer is a Streamlit web application that uses Agno's agent framework to create a team of specialized legal AI agents. The application allows users to upload PDF legal documents, which are then processed, embedded, and stored in a vector database (Qdrant). The AI agents then analyze these documents to provide detailed insights, key points, and recommendations.</p>
 
-<h2>✨ Features</h2>
+<h2> Features</h2>
 
 <ul>
   <li><strong>Document Processing</strong>: Upload and process PDF legal documents</li>
@@ -36,7 +36,7 @@
   <li><strong>Comprehensive Results</strong>: Get detailed analysis, key points, and actionable recommendations</li>
 </ul>
 
-<h2>🛠️ Technologies Used</h2>
+<h2> Technologies Used</h2>
 
 <ul>
   <li><a href="https://streamlit.io/">Streamlit</a>: Web application framework</li>
@@ -46,12 +46,12 @@
   <li><a href="https://pypi.org/project/duckduckgo-search/">DuckDuckGo Search</a>: Web search capabilities</li>
 </ul>
 
-<h2>🚀 Live Demo</h2>
+<h2> Live Demo</h2>
 
 <p>Try the application live on Hugging Face Spaces:<br>
 <a href="https://huggingface.co/spaces/soureesh1211/legal-document-analyzer">Legal Document Analyzer</a></p>
 
-<h2>📦 Installation</h2>
+<h2> Installation</h2>
 
 <ol>
   <li>Clone the repository:
@@ -66,7 +66,7 @@ cd legal-document-analyzer</code></pre>
   </li>
 </ol>
 
-<h2>📋 Requirements</h2>
+<h2> Requirements</h2>
 
 <p>The following packages are required:</p>
 <pre><code>agno
@@ -86,7 +86,7 @@ duckduckgo-search</code></pre>
 </ol>
 <p>These can be entered directly in the application's sidebar.</p>
 
-<h2>🧠 How It Works</h2>
+<h2> How It Works</h2>
 
 <ol>
   <li><strong>Document Upload</strong>: Upload your legal PDF document</li>
@@ -96,11 +96,6 @@ duckduckgo-search</code></pre>
   <li><strong>Results</strong>: Receive detailed analysis, key points, and recommendations</li>
 </ol>
 
-<h2>📄 License</h2>
-
-<p><a href="LICENSE">MIT License</a></p>
-
-<h2>🙏 Acknowledgements</h2>
 
 <ul>
   <li>Built using <a href="https://github.com/agno-ai/agno">Agno</a> for agent orchestration</li>
